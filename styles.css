@@ -326,7 +326,7 @@ div.links:has(img:hover) img:not(:hover) {
   width: 20.75em;
   height: 14em;
   position: relative;
-  transform: translate(-120%, 50%);
+  transform: translate(-90%, 50%);
   left: 50%;
   top: 50%;
   padding: 3em;
@@ -335,7 +335,7 @@ div.links:has(img:hover) img:not(:hover) {
 
 .container5{
   background-color: #e2e2e2;
-  float: left;
+  float: center;
   width: 20.75em;
   height: 25.75em;
   position: relative;
