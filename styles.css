@@ -319,7 +319,18 @@ div.links:has(img:hover) img:not(:hover) {
   padding: 3em;
   border-radius: 1em;
 }
-
+.container4{
+  background-color: #e2e2e2;
+  float: left;
+  width: 20.75em;
+  height: 14em;
+  position: relative;
+  transform: translate(-120%, 50%);
+  left: 50%;
+  top: 50%;
+  padding: 3em;
+  border-radius: 1em;
+}
 
 #result-box {
   height: 200px;
