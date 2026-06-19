@@ -297,7 +297,7 @@ div.links:has(img:hover) img:not(:hover) {
 .container {
   background-color: #9e5e8b;
   width: 30.75em;
-  position: absolute;
+  position: flexbox;
   transform: translate(-90%, -50%);
   left: 50%;
   top: 50%;
@@ -309,7 +309,7 @@ div.links:has(img:hover) img:not(:hover) {
   background-color: #9e5e8b;
   width: 30.75em;
   height: 10em;
-  position: absolute;
+  position: flexbox;
   transform: translate(-90%, 50%);
   left: 50%;
   top: 50%;
@@ -321,7 +321,7 @@ div.links:has(img:hover) img:not(:hover) {
   float: left;
   width: 20.75em;
   height: 10em;
-  position: relative;
+  position: flexbox;
   transform: translate(-120%, 50%);
   left: 50%;
   top: 50%;
@@ -333,7 +333,7 @@ div.links:has(img:hover) img:not(:hover) {
   float: left;
   width: 20.75em;
   height: 15em;
-  position: relative;
+  position: flexbox;
   transform: translate(-120%, 50%);
   left: 50%;
   top: 50%;
