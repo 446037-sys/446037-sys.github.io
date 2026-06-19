@@ -128,7 +128,7 @@ div.links:has(img:hover) img:not(:hover) {
 .topnav a {
   float: left;
   display: block;
-  color: black;
+  color: red;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -137,7 +137,7 @@ div.links:has(img:hover) img:not(:hover) {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #969696;
+  background-color: #FFFF00;
   color: black;
 }
 
