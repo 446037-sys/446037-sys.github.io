@@ -22,6 +22,10 @@ h3{
 h4{
   color:#00008B;
   font-family: georgia, serif;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-color: black;
+  text-decoration-thickness: 5px;
 }
 
 
