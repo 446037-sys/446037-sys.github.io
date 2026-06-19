@@ -339,12 +339,15 @@ div.links:has(img:hover) img:not(:hover) {
   background-color: #e2e2e2;
   width: 20.75em;
   height: 15em;
-  position: flexbox;
   transform: translate(-120%, 50%);
   left: 50%;
   top: 50%;
   padding: 3em;
   border-radius: 1em;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
 }
 
 
