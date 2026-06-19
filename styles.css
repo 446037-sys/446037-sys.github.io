@@ -83,14 +83,6 @@ h4{
     border: 2.5px solid black;
 }
 
-.invis
-{
-    width: 1000px;
-    height: 1000px;
-    border-style:hidden;
-    border-color:black;
-    position: flexbox;
-}
 
 
 div.gallery {
@@ -342,7 +334,7 @@ div.links:has(img:hover) img:not(:hover) {
   height: 14em;
   position: relative;
   transform: translate(-120%, 50%);
-  left: 50%;
+  right: 50%;
   top: 50%;
   padding: 3em;
   border-radius: 1em;
