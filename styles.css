@@ -337,7 +337,6 @@ div.links:has(img:hover) img:not(:hover) {
 }
 .container4 {
   background-color: #e2e2e2;
-  float: left;
   width: 20.75em;
   height: 15em;
   position: flexbox;
